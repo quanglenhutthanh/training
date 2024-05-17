@@ -1,0 +1,6 @@
+SELECT TOP (1000) [MSSV]
+      ,[TENSV]
+      ,[DIACHI]
+      ,[LOP]
+      ,[SODT]
+  FROM [nhap_du_lieu2].[dbo].[SINHVIEN]
